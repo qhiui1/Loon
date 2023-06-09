@@ -78,6 +78,7 @@ Proxy = select,MySub,MySub1,MySub2,img-url = https://ghproxy.com/https://raw.git
 大陆流媒体 = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DomesticMedia.png
 国外流媒体 = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png
 数字货币 = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cryptocurrency_3.png
+OpenAI = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Centralmatrix3/Scripts-Rules/Master/Matrix-icon/Color/OpenAI-1.png
 Instagram = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png
 TikTok = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok_1.png
 YouTube = select,延迟最低,DIRECT,Proxy,香港节点,台湾节点,日本节点,韩国节点,狮城节点,美国节点,英国节点,img-url = https://ghproxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
@@ -114,6 +115,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Apple/Apple_Domain.list, policy=Apple, tag=Apple域名补充, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/yawenchim/Loon/master/rule/Cryptocurrency.list, policy=数字货币, tag=Cryptocurrency, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/ChinaMedia/ChinaMedia.list, policy=大陆流媒体, tag=CNMedia(大陆流媒体), enabled=true
+https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/OpenAI/OpenAI.list, policy=OpenAI, tag=OpenAI, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Instagram/Instagram.list, policy=Instagram, tag=Instagram, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/TikTok/TikTok.list, policy=TikTok, tag=TikTok（国际抖音）, enabled=true
 https://ghproxy.com/https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/Pornhub.list, policy=Pornhub, tag=Pornhub, enabled=true
